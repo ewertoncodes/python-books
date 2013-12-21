@@ -1,6 +1,7 @@
 python-books
 ============
 ###Python
+
 * [Python Para Desenvolvedores] (http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) - Luiz Eduardo Borges
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
@@ -46,6 +47,7 @@ python-books
 
 
 ####Django
+* [The Django Book]  (http://django-book.readthedocs.org/en/latest/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
