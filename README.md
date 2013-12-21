@@ -1,6 +1,7 @@
 python-books
 ============
 ###Python
+* [Python Para Desenvolvedores] (http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) - Luiz Eduardo Borges
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
 * [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
