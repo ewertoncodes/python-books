@@ -1,7 +1,7 @@
 python-books
 ============
 ###Python
-
+* [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Python Para Desenvolvedores] (http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) - Luiz Eduardo Borges
 * [A Bit of Python and Other Things](http://jessenoller.com/good-to-great-python-reads/)
 * [Byte of Python](http://www.swaroopch.com/notes/Python)
