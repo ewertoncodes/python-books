@@ -53,6 +53,7 @@ python-books
 * [Django by Example for Django 1.5](http://lightbird.net/dbe2/)
 * [Tango With Django](http://www.tangowithdjango.com/book/)
 * [Deploy Django](http://www.deploydjango.com)
+* [Django Girls Tutorial](https://www.gitbook.io/book/djangogirls/djangogirls-tutorial)
 
 ####Flask
 * [Explore Flask](http://exploreflask.com/) (PDF)
